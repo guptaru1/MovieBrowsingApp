@@ -1,0 +1,6 @@
+framework module Pods_Movie_Rating_App_Movie_Rating_AppUITests {
+  umbrella header "Pods-Movie Rating App-Movie Rating AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
