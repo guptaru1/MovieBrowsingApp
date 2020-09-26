@@ -21,6 +21,9 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         tableView.dataSource = self
         tableView.delegate = self
         
+        tableView.isScrollEnabled = true
+        //tableView.isScrollingEnabled = true
+        
         super.viewDidLoad()
 
         print ("Hello")
