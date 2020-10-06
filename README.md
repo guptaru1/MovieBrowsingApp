@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/L1pr4JwqEw" width=250><br>
+<img src="http://g.recordit.co/L1pr4JwqEw.gif" width=250><br>
 
 ### Notes
 Pods wasn't working for me depsite doing pod init so i had to reclone the project and I was getting issues when doing "cell.posterView.af_setImage(withUrl: posterUrl)" saying that it has no member af_setImage
